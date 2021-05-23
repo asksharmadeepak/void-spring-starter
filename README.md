@@ -21,5 +21,8 @@ Domain Used -
 
 * Employee Domain is used for all CRUD Operation
 
+Steps Followed Per Checkin
+
+* Added Lombok Support
 
 
