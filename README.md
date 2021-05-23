@@ -24,5 +24,5 @@ Domain Used -
 Steps Followed Per Checkin
 
 * Added Lombok Support
-
+* Added H2 in-memory database dependency and config in application properties
 
